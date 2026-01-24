@@ -7,3 +7,6 @@ git status
 git init
 git add
 git add . 
+git diff
+git push 
+git commit -m ""
